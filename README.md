@@ -1,4 +1,7 @@
+
 # Tailwind Traders Website
+
+[![Build Status](https://dev.azure.com/salamelias0441/Tailwinds%20on%20SieracDevOps/_apis/build/status/Website-CI?branchName=master)](https://dev.azure.com/salamelias0441/Tailwinds%20on%20SieracDevOps/_build/latest?definitionId=2&branchName=master)
 
 ![Tailwind Traders Website](Documents/Images/Website.png)
 
