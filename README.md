@@ -13,6 +13,10 @@ You can take a look at our live running website following this address: [https:/
 
 For this demo reference, we built several consumer and line-of-business applications and a set of backend services. You can find all repositories in the following locations:
 
+or
+
+http://tailwindtradersxfb72lozawkcs.azurewebsites.net/ for sierac
+
 - [Tailwind Traders](https://github.com/Microsoft/TailwindTraders)
 - [Backend (AKS)](https://github.com/Microsoft/TailwindTraders-Backend)
 - [Website (ASP.NET & React)](https://github.com/Microsoft/TailwindTraders-Website)
